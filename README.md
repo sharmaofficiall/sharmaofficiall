@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Sharma
+# Hey there! 👋 I'm Sunny Sharma
 
 Welcome to my GitHub! I'm a **Software Engineer & Reverse Engineering Enthusiast** passionate about building innovative tools, APIs, and security-focused applications. Dive into my projects and let's collaborate!
 
